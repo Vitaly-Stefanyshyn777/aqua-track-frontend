@@ -1,10 +1,6 @@
-# AquaDev Frontend Repository
-
-Welcome to the **AquaDev Frontend Repository**!
-
 ## 📖 Project Overview
 
-This repository contains the **frontend** of the final team project developed by the **AquaDev** team. The project is a modern **water tracking application** that helps users monitor and manage their daily water intake efficiently.
+This repository contains the **frontend** of the final team project developed by the **name** team. The project is a modern **water tracking application** that helps users monitor and manage their daily water intake efficiently.
 
 ## ✨ Key Features
 
@@ -22,9 +18,3 @@ This repository contains the **frontend** of the final team project developed by
 ## 🎯 Purpose
 
 This project is the culmination of our team’s collaborative efforts, showcasing our skills in modern frontend development and teamwork.
-
-## 🌊 About the Team
-
-The **AquaDev** team consists of 10 enthusiastic developers united by a shared goal: building innovative and impactful web applications.
-
-Development
